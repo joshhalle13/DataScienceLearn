@@ -1,4 +1,4 @@
 #Display the output
 
 
-Print("New Python File")
+print("New Python File")
